@@ -1,0 +1,12 @@
+    1  touch scripts
+    2  mv scripts
+    3  cd scripts
+    4  git 01_gitinit.sh
+    5  less 01_gitinit.sh
+    6  sh 01_gitinit.sh meunome meunome@email
+    7  git log 
+    8  git status
+    9  git currentbranch
+   10  git branch
+   11  git branch
+   12  history >> Leonice.txt

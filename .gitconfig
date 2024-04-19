@@ -1,0 +1,8 @@
+[use]
+	name = 
+[user]
+	email = meunome@email
+[safe]
+	directory = /home/developer/scripts
+[init]
+	defaultBranch = master

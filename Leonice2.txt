@@ -1,0 +1,41 @@
+    1  docker-compose up
+    2  docker tag l_uduntu:0.0.1
+    3  docker build -t l_ubuntu:0.0.1
+    4  docker build -t l_ubuntu:0.0.1.
+    5  docker-compose up
+    6  docker build -t l_ubuntu:0.0.1 .
+    7  docker compose up -d --build
+    8  docker compose . up -d --build
+    9  docker compose -d up
+   10  docker compose buid up -d
+   11  docker compose up -d --build
+   12  docker compose . up -d --build
+   13  docker compose -d up
+   14  docker compose build up -d
+   15  docker build -t l_ubuntu:0.0.1 .
+   16  docker compose up -d --build
+   17  docker compose . up -d --build
+   18  docker compose up -d --build
+   19  docker compose . up -d --build
+   20  docker compose up -d --build
+   21  docker compose build up-d
+   22  docker compose -d up
+   23  docker compose-d up
+   24  docker compose . up -d --build
+   25  COMMAND --help
+   26  docker compose build up -d
+   27  docker compose up -d --build
+   28  docker compose . up -d --build
+   29  git 01_gitinit.sh
+   30  less 01_gitinit.sh
+   31  exec 01_gitinit.sh meunome meunome@email
+   32  sh 01_gitinit.sh meunome meunome@email
+   33  exec 01_gitinit.sh meunome meunome@email
+   34  less 01_gitinit.sh
+   35  git 01_gitinit.sh
+   36  docker compose build up -d
+   37  docker compose up -d --build
+   38  docker exec -it prova git
+   39  docker exec -it prova/bin/bash
+   40  docker exec -it /bin/bash
+   41  docker-compose exec -it prova /bin/bash
